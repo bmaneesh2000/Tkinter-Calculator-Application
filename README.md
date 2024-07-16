@@ -1,4 +1,4 @@
-# Translator App
+# Calculator App
 
 
-![alt text](https://github.com/bmaneesh2000/Python-Translator-Application-Tkinter-/blob/main/ss/one.png)
+![alt text](https://github.com/bmaneesh2000/Tkinter-Calculator-Application/blob/main/one.png)
